@@ -1,0 +1,91 @@
+
+fieldset
+	list of type="select" dropdownmenues
+	
+find icon
+type="search"
+
+use javascript for changing #left menu based on selection
+
+what goes on the bottom footer?
+	contacts
+	email
+	help
+	
+
+horizonal menu
+	horizonal list of virtical lists 
+	where only the first list item is display in a row
+	
+	
+======
+javascript :
+		onclick() 
+	
+	below this first set
+		display: none;
+	
+	document.getElementById()
+	
+	if list.style.display == "none"
+		list.style.display == "block";
+		}
+=====
+css:
+ul li ul {
+    display: none;
+}
+
+ul li:hover ul {
+    display: block;
+}
+======
+======
+GITHUB:
+
+USERNAME: changmingfan@gmail.com
+PW: github081414
+
+LOCATION: 
+https://github.com/ChangmingFan/TiniLiteWorldWebsite082814
+git@github.com:ChangmingFan/TiniLiteWorldWebsite082814.git
+//use "copy to clipboard" rather than mouse select
+
+PAGEANT BACKGROUND PROCESS
+
+PUTTY KEY GENERATOR:
+KEY
+public_key:	ssh-rsa-...==rsa-key-20140814	public.txt
+private_key: private.ppk
+	location: TiniLiteWorldProject > sshkey
+KEY PASSPHRASE: changming
+
+ONLINE
+Settings: SSH Key: Add New SSH Key
+	cut and paste key from PuttyKeyGenerator
+======
+QUESTION
+Single Session Key? Probably Not
+Single Project Many Session Key? Probably Yes
+Many Project Many Session Key? Probably Not
+======
+PuttyGen:
+Generate New
+Load Previous
+=====
+ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArZ9WnUMMQWuvJMT/gId7owlMaVgJ5Q3w7EZvlw+nZU4FTvREYnJrjcJHptiIfpq/o5NNaHXisjj7waebKssBJGv8P3Na+3L+lSYuVduUfcTL0p9CSTwmsIYXkmWqWbGeoSqLuT9J7w+oN6zBWjHQ9+v1JF3N2NHSWXdhCNFbprVLOKmJRRcmiKc0CBtg4b3lXkQMwd87LK9LSfVQUAT25uR8O6H42xpABoBXmT2YP0pQrO79IUvAI/sHvgAeA4s3Gu+VCBLJJ00AH5YODdGILiVMnFhdRmv0MEGc5kIlWemwGGsdCLxrmuh0mr2GqTMNQcxnaroXqIuIc5V3CaoA9w== rsa-key-20140904
+=====
+remote url: https://..etc
+PULL THEN PUSH
+in Tortoise SETTINGS: both name and email must be set
+======
+Repository -> right sidebar: Settings -> Danger Zone
+=====
+Users\Changming\Documents\TiniLiteWebProjects\TiniLiteWebsite090414
+https://github.com/ChangmingFan/TiniLiteWorldWebsite090414.git
+git@github.com:ChangmingFan/TiniLiteWorldWebsite090414.git
+
+======
+"Remote Name Cannot Be Empty"
+make sure there are no spaces
+make sure : is a / ?
