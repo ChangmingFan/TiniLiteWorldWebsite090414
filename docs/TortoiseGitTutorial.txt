@@ -1,0 +1,45 @@
+
+Your USERNAME: changmingfan@gmail.com
+Your PASSWORD: github081414
+Your PASSPHRASE: changming
+		
+Starting Over From Scratch:
+	1. Online: Delete Old Test Repository, then Create New Test Repository
+		i.Goto Repository Folder, Click on the Repository
+		iii.On Right Menu SETTINGS, Scroll Down To DANGER ZONE
+	2. On the Desktop delete Old Test Repository Folder
+	3. On the Desktop delete any existing Keys
+	4. Create new empty folder then copy into it your project or leave empty 
+		Make sure this does not have ".git" anywhere in it.
+	5. Begin Tortoise: Pageant, Begin Tortoise: Putty-Key-Generator
+	6. Load an existing Private-Key.ppk or generate a new private key and save it.
+		Note the location and PASSPHRASE. Key this Private-Key.ppk for future use.
+	7. Add the saved Private-Key.ppk to Pageant. 
+	8. Let this Pageant stay running in the background even after restarting the computer
+	9. Return online to New Test Repository:
+	10. In SETTINGS -> SSH -> Add New Key
+	11. Copy&Paste the "Public key for pasting into OpenSSH authorized_key" 	
+		file from Putty-Key-Generator (still open).
+	14. This key must begin and end with "ssh-rsa .... ==rsa-keyDATE" to be sure.
+	15. Once Key is Added, Save BOTH the SSH and HTTPS paths.
+	15. Notice this Online Key should have the same fingerprint as Putty-Key-Generator.
+		e.g. "6d:e4:aa:5e:2f:f4:c1:99:69:ed:74:2b:64:2b:64:e4" 
+	16. On the desktopn, open the RIGHT-CLICK menu on your new project folder, view:
+				Git Clone...
+				Git Create Repository Here...
+				Tortoise Git -> Settings
+		tip: don't do clone yet.
+	17. Now Create the Repository -> select ALL -> Commit these files
+		tip: do not immediately select "push", for now just close the window
+	18. Again open the RIGHT-CLICK menu on the new project folder, view now:
+			Git Synch...
+			Git Commit->Master
+			TortoiseGit -> MANY CHOICES
+	19. Click "Git Synch...", in "Remote URL" paste the SSH or HTTPS paths to the repository you want to update	(tip: make sure there is no Folder Icon in this field?)
+		for example:
+			git@github.com:ChangmingFan/TiniLiteWorldWebsite090414.git
+		or:
+			https://github.com/ChangmingFan/TiniLiteWorldWebsite090414.git
+	20. Push Away!
+	20. If you're reading this, these steps succeeded.
+	

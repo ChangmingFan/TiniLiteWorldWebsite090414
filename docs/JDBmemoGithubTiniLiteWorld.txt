@@ -1,7 +1,7 @@
 THIS IS A TEST 090414 820PM JDB
 THIS IS A TEST 090414 1100AM JDB
 fieldset
-	list of type="select" dropdownmenues
+	//list of type="select" dropdownmenues//this did not work
 	
 find icon
 type="search"
@@ -90,3 +90,9 @@ git@github.com:ChangmingFan/TiniLiteWorldWebsite090414.git
 "Remote Name Cannot Be Empty"
 make sure there are no spaces
 make sure : is a / ?
+======
+"Support Us"
+"FAQs"
+"Blog Posts"
+====
+IrfanView : Embedded Media
