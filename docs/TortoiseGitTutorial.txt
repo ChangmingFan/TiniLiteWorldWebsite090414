@@ -1,7 +1,5 @@
 
-Your USERNAME: changmingfan@gmail.com
-Your PASSWORD: github081414
-Your PASSPHRASE: changming
+[PASSWORDS DELETED]
 		
 Starting Over From Scratch:
 	1. Online: Delete Old Test Repository, then Create New Test Repository
