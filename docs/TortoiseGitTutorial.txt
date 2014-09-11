@@ -1,8 +1,4 @@
-091114  4th commit 091114
-Username: 	ChangmingFan@Gmail.com
-PASSWORDS: 	github081414
-PASSPHRASE:	changming
-		
+[deleted] 91114
 Starting Over From Scratch:
 
 	1. Online: Delete Old Test Repository, then Create New Test Repository
