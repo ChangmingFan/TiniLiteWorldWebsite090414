@@ -1,6 +1,10 @@
-This is a test 091114 commit #3
+091114  4th commit 091114
+Username: 	ChangmingFan@Gmail.com
+PASSWORDS: 	github081414
+PASSPHRASE:	changming
 		
 Starting Over From Scratch:
+
 	1. Online: Delete Old Test Repository, then Create New Test Repository
 		i.Goto Repository Folder, Click on the Repository
 		iii.On Right Menu SETTINGS, Scroll Down To DANGER ZONE
@@ -10,8 +14,11 @@ Starting Over From Scratch:
 		Make sure this does not have ".git" anywhere in it.
 	5. Begin Tortoise: Pageant, Begin Tortoise: Putty-Key-Generator
 	6. Load an existing Private-Key.ppk or generate a new private key and save it.
-		Note the location and PASSPHRASE. Key this Private-Key.ppk for future use.
-	7. Add the saved Private-Key.ppk to Pageant. 
+		Note the location and PASSPHRASE(changming, not github081414). 
+		Keep this Private-Key.ppk for future use.
+
+If you already have a private_key:
+	7. Add the saved Private-Key.ppk to Pageant. Make sure there are no other keys conflicting.
 	8. Let this Pageant stay running in the background even after restarting the computer
 	9. Return online to New Test Repository:
 	10. In SETTINGS -> SSH -> Add New Key
