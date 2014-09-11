@@ -1,5 +1,4 @@
-
-[PASSWORDS DELETED]
+This is a test 091114 commit #3
 		
 Starting Over From Scratch:
 	1. Online: Delete Old Test Repository, then Create New Test Repository
